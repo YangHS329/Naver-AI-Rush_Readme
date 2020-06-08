@@ -1,4 +1,5 @@
-# 본 repository는 제 github 상에 표시되는 kwlee
+# read_me
+본 repository는 제 github 상에 표시되는 kw-lee/AdvStatComp_HDP 에 대한 저의 contribution을 설명하기 위한 부분입니다.
 
 # Team-project-for-ASC
 19년도 겨울학기 고급통계계산 강좌 팀 프로젝트 설명용 repository
