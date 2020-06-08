@@ -1,5 +1,7 @@
+# 본 repository는 제 github 상에 표시되는 kwlee
+
 # Team-project-for-ASC
-19년도 겨울학기 고급통계계산 강좌 팀 프로젝트용 repository
+19년도 겨울학기 고급통계계산 강좌 팀 프로젝트 설명용 repository
 
 # Project 개요
 다변량 정규분포 함수를 다룰 때 대개의 경우 공분산의 역행렬 계산이 필수적이다. 특히 차원이 큰 다변량 정규분포에 대해 
