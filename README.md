@@ -11,5 +11,7 @@ block-reordering, hierarchical Cholesky decomposition, bi-variate conditioning m
 
 # Contribution 
 양현석 : block reordering 과정에 대한 코드 작성 
+
 이** : hierarchical Cholesky decomposition과 관련된 계산 과정에 대한 코드 작성
+
 김** : bi-variate conditioning method를 적용한 계산 과정에 대한 코드 작성
