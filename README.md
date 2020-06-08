@@ -16,5 +16,5 @@ block-reordering, hierarchical Cholesky decomposition, bi-variate conditioning m
 상기한 세 방법들 중 block reordering 과정에 대한 코드를 작성하고, proposal 및 최종 발표자료의 3분의 1을 작성하였습니다.
 
 # comp-stat/asc19-homework-YangHS329
-서울대학교 19년도 겨울학기 고급통계계산 강좌 개인과제용 repository로, 과제로 주어진 코드 및 markdown 파일 제출처입니다.
+서울대학교 19년도 겨울학기 고급통계계산 강좌 개인과제용 repository
 
